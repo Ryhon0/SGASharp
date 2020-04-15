@@ -1,4 +1,4 @@
-# ᓭ⊣ᔑᓭ⍑ᔑ∷!¡ (SGASharp)
+# ᓭ⊣ᔑᓭ⍑ᔑ∷!¡ (SGASharp) [![Build status](https://ci.appveyor.com/api/projects/status/cojfodiwivfj23f5?svg=true)](https://ci.appveyor.com/project/Ryhon0/sgasharp)
  Translate Latin into [Standard Galactic Alphabet](http://www.shikadi.net/keenwiki/Standard_Galactic_Alphabet) (Minecraft Enchanting Table language) and vice versa in C#
 
 ## Add to your project
