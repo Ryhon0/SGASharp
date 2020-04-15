@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ReleaseVersion>1</ReleaseVersion>
+    <Description>Translate Latin into Standard Galactic Alphabet and vice versa</Description>
+  </PropertyGroup>
+
+</Project>
