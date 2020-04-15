@@ -2,7 +2,12 @@
  Translate Latin into [Standard Galactic Alphabet](http://www.shikadi.net/keenwiki/Standard_Galactic_Alphabet) (Minecraft Enchanting Table language) and vice versa in C#
 
 ## Add to your project
-Currently you can add the library to your project by adding the [SGASharp/SGA.cs](SGASharp/SGA.cs) file to your project or by adding the [SGASharp](SGASharp) project to your solution and adding a reference to it
+SGASharp can be downloaded from [NuGet](https://www.nuget.org/packages/SGASharp/)
+Use the command bellow or download it from your IDE
+`dotnet add package SGASharp`
+
+
+Alternatively you can add the [SGASharp/SGA.cs](SGASharp/SGA.cs) file to your project or add the [SGASharp](SGASharp) project to your solution and add a reference to it
 
 ## Example
 Example project can be found in [SGASharp.CommandLine](SGASharp.CommandLine)
