@@ -4,6 +4,10 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ReleaseVersion>1</ReleaseVersion>
+
+    <Authors>Ryhon</Authors>
+    <PackageLicenseUrl>https://github.com/Ryhon0/SGASharp/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/Ryhon0/SGASharp</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

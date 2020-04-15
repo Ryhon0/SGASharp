@@ -2,8 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <ReleaseVersion>1</ReleaseVersion>
+    <Version>1.0.1</Version>
     <Description>Translate Latin into Standard Galactic Alphabet and vice versa</Description>
+
+    <Authors>Ryhon</Authors>
+    <PackageLicenseUrl>https://github.com/Ryhon0/SGASharp/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/Ryhon0/SGASharp</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
